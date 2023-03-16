@@ -1,4 +1,4 @@
-# Alibaba Cloud Distro for OpenTelemetry Collector
+# Alibaba Cloud for OpenTelemetry Collector
 
 ## Build
 
